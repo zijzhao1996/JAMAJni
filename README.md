@@ -46,9 +46,9 @@ Authors
 #### JAMAJni
 | Name   | Email       |              |
 |:------ |:----------- | :----------- |
-| Lu Zhang (maintainer)| lu.zhang@ucla.edu    | Department of Biostatistics  UCLA|
-| Zijie Zhao | zijzhao@ucla.edu        | Visiting Student of Biostatistics UCLA  |                             
-| Sudipto Banerjee |sudipto@ucla.edu   | Department of Biostatistics  UCLA |
+| Zijie Zhao (maintainer)| zijzhao@ucla.edu    | Visiting student, Department of Biostatistics  UCLA|
+| Lu Zhang | lu.zhang@ucla.edu        | PhD student, Department of Biostatistics UCLA  |                             
+| Sudipto Banerjee |sudipto@ucla.edu   | Professor, Department of Biostatistics  UCLA |
                              
 
 
